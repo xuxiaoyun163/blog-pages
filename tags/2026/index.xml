@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2026 on 奇怪的代码</title>
-    <link>https://examplesite.com/tags/2026/</link>
+    <link>https://xuxiaoyun163.github.io/blog-pages/tags/2026/</link>
     <description>Recent content in 2026 on 奇怪的代码</description>
     <image>
       <title>奇怪的代码</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 27 Apr 2026 16:14:56 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/tags/2026/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xuxiaoyun163.github.io/blog-pages/tags/2026/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GESP6级知识点</title>
-      <link>https://examplesite.com/posts/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/gesp6%E7%BA%A7%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/gesp6%E7%BA%A7%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
       <pubDate>Mon, 27 Apr 2026 16:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/gesp6%E7%BA%A7%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/gesp6%E7%BA%A7%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
       <description>&lt;h2 id=&#34;二叉搜索树bts&#34;&gt;二叉搜索树(BTS)&lt;/h2&gt;
 &lt;h2 id=&#34;动态规划&#34;&gt;动态规划&lt;/h2&gt;
 &lt;h3 id=&#34;定义&#34;&gt;定义&lt;/h3&gt;
@@ -55,9 +55,9 @@
     </item>
     <item>
       <title>GESP2026年3月6级真题解析</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/26_3_6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/26_3_6/</link>
       <pubDate>Sun, 26 Apr 2026 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/26_3_6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/26_3_6/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目1&#34;&gt;题目1&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;下列关于 C++ 中类的描述，正确的是（）。&lt;/strong&gt;&lt;br&gt;

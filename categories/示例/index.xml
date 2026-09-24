@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>示例 on 奇怪的代码</title>
-    <link>https://examplesite.com/categories/%E7%A4%BA%E4%BE%8B/</link>
+    <link>https://xuxiaoyun163.github.io/blog-pages/categories/%E7%A4%BA%E4%BE%8B/</link>
     <description>Recent content in 示例 on 奇怪的代码</description>
     <image>
       <title>奇怪的代码</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://examplesite.com/categories/%E7%A4%BA%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xuxiaoyun163.github.io/blog-pages/categories/%E7%A4%BA%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://examplesite.com/posts/hello-world/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/hello-world/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
-      <guid>https://examplesite.com/posts/hello-world/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/hello-world/</guid>
       <description>这是第一篇文章</description>
     </item>
   </channel>

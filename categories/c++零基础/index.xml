@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>C&#43;&#43;零基础 on 奇怪的代码</title>
-    <link>https://examplesite.com/categories/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80/</link>
+    <link>https://xuxiaoyun163.github.io/blog-pages/categories/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80/</link>
     <description>Recent content in C&#43;&#43;零基础 on 奇怪的代码</description>
     <image>
       <title>奇怪的代码</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 01 Oct 2025 09:24:26 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/categories/c++%E9%9B%B6%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xuxiaoyun163.github.io/blog-pages/categories/c++%E9%9B%B6%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C&#43;&#43;零基础-基础语法</title>
-      <link>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Wed, 01 Oct 2025 09:24:26 +0000</pubDate>
-      <guid>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</guid>
       <description>&lt;h1 id=&#34;基础类型与运算&#34;&gt;基础类型与运算&lt;/h1&gt;
 &lt;h2 id=&#34;基础数据类型&#34;&gt;基础数据类型&lt;/h2&gt;
 &lt;h3 id=&#34;整型&#34;&gt;整型&lt;/h3&gt;
@@ -101,9 +101,9 @@
     </item>
     <item>
       <title>c&#43;&#43;零基础-环境搭建</title>
-      <link>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
       <description>&lt;h1 id=&#34;配置c环境&#34;&gt;配置C++环境&lt;/h1&gt;
 &lt;h2 id=&#34;安装vscode&#34;&gt;安装vscode&lt;/h2&gt;
 &lt;p&gt;点击链接进入微软官网进行安装&lt;/p&gt;
@@ -148,27 +148,27 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.msys2.org/&#34;&gt;MSYS2&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-23-14-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-23-14-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在官网中找到安装包并下载&lt;/p&gt;
 &lt;p&gt;因为访问官方需要科学手段，如果不能科学上网的同学可以使用国内镜像网站进行安装&lt;/p&gt;
 &lt;p&gt;这里提供阿里的镜像网站，我们打开网站点击第一个&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://mirrors.aliyun.com/msys2/?spm=a2c6h.13651104.d-5174.1.1a997a1fZzI4By&#34;&gt;https://mirrors.aliyun.com/msys2/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-01-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-01-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;找到最新版的安装包进行下载&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-41-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-41-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;下载完成之后我们开始安装&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-31-00-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-31-00-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;这个最好就是默认c盘，为了避免不必要的麻烦，接下来一直点击next就可以&lt;/p&gt;
 &lt;p&gt;安装完成之后我需要在开始菜单中找到msys2 ucrt64 打开&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-34-12-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-34-12-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;将官网中的这一条命令写入进去，开始g++的下载&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-35-12-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-35-12-image.png&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;$ pacman -S mingw-w64-ucrt-x86_64-gcc&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-36-30-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-36-30-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;这个直接输入Y&lt;/p&gt;
 &lt;p&gt;然后开始下载我们的依赖&lt;/p&gt;
 &lt;p&gt;因为&lt;code&gt;pacman&lt;/code&gt; 命令下载的依赖来自有国外的仓库，所有下载很慢，有可能出现下载失败的情况，如果出现了网络错误或者下载失败，我们需要配置 &lt;code&gt;pacman&lt;/code&gt; 使用国内镜像源的仓库进行下载&lt;/p&gt;

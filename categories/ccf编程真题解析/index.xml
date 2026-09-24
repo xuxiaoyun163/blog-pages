@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CCF编程真题解析 on 奇怪的代码</title>
-    <link>https://examplesite.com/categories/ccf%E7%BC%96%E7%A8%8B%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/</link>
+    <link>https://xuxiaoyun163.github.io/blog-pages/categories/ccf%E7%BC%96%E7%A8%8B%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/</link>
     <description>Recent content in CCF编程真题解析 on 奇怪的代码</description>
     <image>
       <title>奇怪的代码</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 30 Sep 2025 12:14:56 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/categories/ccf%E7%BC%96%E7%A8%8B%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xuxiaoyun163.github.io/blog-pages/categories/ccf%E7%BC%96%E7%A8%8B%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GESP2025年12月6级真题解析</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_12_6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_12_6/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_12_6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_12_6/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目1&#34;&gt;题目1&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;在面向对象编程中，下列关于虚函数的描述中，错误的是（）。&lt;/strong&gt;&lt;br&gt;
@@ -108,9 +108,9 @@ D. 代码运行出现错误&lt;/p&gt;</description>
     </item>
     <item>
       <title>测试题目</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目一&#34;&gt;题目一&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;运行下面程序后变量a的值是（）&lt;/strong&gt;&lt;/p&gt;
@@ -174,9 +174,9 @@ D.105&lt;/p&gt;</description>
     </item>
     <item>
       <title>测试题目2</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo02/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo02/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo02/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo02/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目一&#34;&gt;题目一&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;运行下面程序后变量a的值是（）&lt;/strong&gt;&lt;/p&gt;

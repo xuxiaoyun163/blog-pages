@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>奇怪的代码</title>
-    <link>https://examplesite.com/</link>
+    <link>https://xuxiaoyun163.github.io/blog-pages/</link>
     <description>Recent content on 奇怪的代码</description>
     <image>
       <title>奇怪的代码</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 19 Sep 2026 17:14:16 +0800</lastBuildDate>
-    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xuxiaoyun163.github.io/blog-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSP-J2026真题解析</title>
-      <link>https://examplesite.com/posts/csp-j%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/2026/2026cspj%E7%9C%9F%E9%A2%98/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/csp-j%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/2026/2026cspj%E7%9C%9F%E9%A2%98/</link>
       <pubDate>Sat, 19 Sep 2026 17:14:16 +0800</pubDate>
-      <guid>https://examplesite.com/posts/csp-j%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/2026/2026cspj%E7%9C%9F%E9%A2%98/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/csp-j%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/2026/2026cspj%E7%9C%9F%E9%A2%98/</guid>
       <description>&lt;h2 id=&#34;一单项选择题&#34;&gt;一、单项选择题&lt;/h2&gt;
 &lt;p&gt;（共15题，每题2分，共计30分；每题有且仅有一个正确选项）&lt;/p&gt;
 &lt;ol&gt;
@@ -59,9 +59,9 @@ D. 6&lt;/p&gt;
     </item>
     <item>
       <title>paper-mod主题配置</title>
-      <link>https://examplesite.com/posts/paper%E9%85%8D%E7%BD%AE/papermod%E9%85%8D%E7%BD%AE/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/paper%E9%85%8D%E7%BD%AE/papermod%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Sat, 19 Sep 2026 17:14:16 +0800</pubDate>
-      <guid>https://examplesite.com/posts/paper%E9%85%8D%E7%BD%AE/papermod%E9%85%8D%E7%BD%AE/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/paper%E9%85%8D%E7%BD%AE/papermod%E9%85%8D%E7%BD%AE/</guid>
       <description>&lt;h2 id=&#34;配置数学公式渲染&#34;&gt;配置数学公式渲染&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;code&gt;KaTeX&lt;/code&gt;
@@ -259,9 +259,9 @@ D. 6&lt;/p&gt;
     </item>
     <item>
       <title>GESP6级知识点</title>
-      <link>https://examplesite.com/posts/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/gesp6%E7%BA%A7%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/gesp6%E7%BA%A7%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
       <pubDate>Mon, 27 Apr 2026 16:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/gesp6%E7%BA%A7%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/gesp6%E7%BA%A7%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
       <description>&lt;h2 id=&#34;二叉搜索树bts&#34;&gt;二叉搜索树(BTS)&lt;/h2&gt;
 &lt;h2 id=&#34;动态规划&#34;&gt;动态规划&lt;/h2&gt;
 &lt;h3 id=&#34;定义&#34;&gt;定义&lt;/h3&gt;
@@ -299,9 +299,9 @@ D. 6&lt;/p&gt;
     </item>
     <item>
       <title>GESP2025年3月6级真题解析</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_3_6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_3_6/</link>
       <pubDate>Mon, 27 Apr 2026 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_3_6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_3_6/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目1&#34;&gt;题目1&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;在面向对象编程中，类是一种重要的概念。下面关于类的描述中，不正确的是（）。&lt;/strong&gt;&lt;br&gt;
@@ -349,9 +349,9 @@ D. 层次遍历&lt;/p&gt;</description>
     </item>
     <item>
       <title>GESP2025年9月6级真题解析</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_9_6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_9_6/</link>
       <pubDate>Mon, 27 Apr 2026 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_9_6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_9_6/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目1&#34;&gt;题目1&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;下列关于类的说法，错误的是（）。&lt;/strong&gt;&lt;br&gt;
@@ -445,9 +445,9 @@ D. 链接 (Linking)&lt;/p&gt;</description>
     </item>
     <item>
       <title>GESP2025年6月6级真题解析</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_6_6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_6_6/</link>
       <pubDate>Sun, 26 Apr 2026 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_6_6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_6_6/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目1&#34;&gt;题目1&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;下列哪一项不是面向对象编程的基本特征？&lt;/strong&gt;&lt;br&gt;
@@ -505,9 +505,9 @@ D. 程序崩溃&lt;/p&gt;</description>
     </item>
     <item>
       <title>GESP2026年3月6级真题解析</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/26_3_6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/26_3_6/</link>
       <pubDate>Sun, 26 Apr 2026 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/26_3_6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/26_3_6/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目1&#34;&gt;题目1&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;下列关于 C++ 中类的描述，正确的是（）。&lt;/strong&gt;&lt;br&gt;
@@ -582,16 +582,16 @@ D. 第④行&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://examplesite.com/posts/hello-world/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/hello-world/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
-      <guid>https://examplesite.com/posts/hello-world/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/hello-world/</guid>
       <description>这是第一篇文章</description>
     </item>
     <item>
       <title>CCF编程等级认证四级-指针</title>
-      <link>https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/</link>
       <pubDate>Wed, 29 Oct 2025 17:14:16 +0800</pubDate>
-      <guid>https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/</guid>
       <description>&lt;h2 id=&#34;指针与地址的概念&#34;&gt;指针与地址的概念&lt;/h2&gt;
 &lt;p&gt;在讲解指针之前我们需要明白，变量到底是怎么存储在计算中的呢？&lt;/p&gt;
 &lt;p&gt;其实一个整数存储在计算机的过程，类似我们的在菜鸟驿站存一个商品&lt;/p&gt;
@@ -602,14 +602,14 @@ D. 第④行&lt;/p&gt;</description>
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;// 将100 放入到柜子中
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-17-38-27-image.png&#34;&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-17-38-27-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我们可以根据柜子的编号将柜子中的物品拿走，对应的代码就是我们可以根据变量名&lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;获取内存中存放的值。&lt;/p&gt;
 &lt;p&gt;现在突然有一天你需要陪你女朋友，没时间去拿快递，你希望隔壁老王去帮你拿一下，那你需要告诉老王快递柜的编号&lt;/p&gt;
 &lt;p&gt;在计算中，如果我们也需要进行这种操作，将快递柜的编号告诉别人怎么办呢？&lt;/p&gt;
 &lt;p&gt;其实有的人就会认为，这个&lt;code&gt;100&lt;/code&gt; 不就是&lt;code&gt;a&lt;/code&gt;嘛，我直接将a告诉它不就行了。&lt;/p&gt;
 &lt;p&gt;但是在计算中，我们的地址并不会像快递编号那样，比较简单，计算机中的内存编号非常复杂，而且很长，为了方便我们每次存放和取出我们需要的值，在存放值的过程中呢，我们会将这个编号复制一份给变量名&lt;code&gt;a&lt;/code&gt;但是这不是真正的编号，那我们该怎么去获取到当前这个变量的地址呢？&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-17-54-29-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-17-54-29-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;取地址&lt;/strong&gt;  &lt;code&gt;&amp;amp;&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(){&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
@@ -626,7 +626,7 @@ D. 第④行&lt;/p&gt;</description>
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// 通过指针存储我们获取到的地址    
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;cout&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//0xaaf69ffb9c
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-18-10-25-image.png&#34;&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-18-10-25-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;那现在我知道了存储的地址之后我该如何去取出这个地址中的内容呢？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;解引用&lt;/strong&gt;  获取当前指针指向地址中的值&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(){&lt;/span&gt;
@@ -664,13 +664,13 @@ D. 第④行&lt;/p&gt;</description>
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;23_6_13&#34;&gt;23_6_13&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-30-15-11-48-image.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-30-15-11-48-image.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>vscode配置markdown环境</title>
-      <link>https://examplesite.com/posts/vscode/vscode%E9%85%8D%E7%BD%AEmarkdown/vscode%E9%85%8D%E7%BD%AEmarkdown/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/vscode/vscode%E9%85%8D%E7%BD%AEmarkdown/vscode%E9%85%8D%E7%BD%AEmarkdown/</link>
       <pubDate>Wed, 29 Oct 2025 17:14:16 +0800</pubDate>
-      <guid>https://examplesite.com/posts/vscode/vscode%E9%85%8D%E7%BD%AEmarkdown/vscode%E9%85%8D%E7%BD%AEmarkdown/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/vscode/vscode%E9%85%8D%E7%BD%AEmarkdown/vscode%E9%85%8D%E7%BD%AEmarkdown/</guid>
       <description>&lt;h2 id=&#34;配置markdown编写环境&#34;&gt;配置markdown编写环境&lt;/h2&gt;
 &lt;p&gt;解决的问题： 在使用vscode编写markdown文件时，我们使用的换行在markdown文件被渲染时，不会被换行，因为在markdown中2个空格表示换行&lt;br&gt;
 解决方法：&lt;br&gt;
@@ -708,9 +708,9 @@ D. 第④行&lt;/p&gt;</description>
     </item>
     <item>
       <title>【数据结构2-1】二叉堆和树状数组</title>
-      <link>https://examplesite.com/posts/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%842-1%E4%BA%8C%E5%8F%89%E5%A0%86%E4%B8%8E%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%842-1%E4%BA%8C%E5%8F%89%E5%A0%86%E4%B8%8E%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%842-1%E4%BA%8C%E5%8F%89%E5%A0%86%E4%B8%8E%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%842-1%E4%BA%8C%E5%8F%89%E5%A0%86%E4%B8%8E%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</guid>
       <description>&lt;h2 id=&#34;二叉堆&#34;&gt;二叉堆&lt;/h2&gt;
 &lt;h3 id=&#34;定义&#34;&gt;定义&lt;/h3&gt;
 &lt;p&gt;二叉堆是一棵完全二叉树&lt;/p&gt;
@@ -804,9 +804,9 @@ D. 第④行&lt;/p&gt;</description>
     </item>
     <item>
       <title>C&#43;&#43;零基础-基础语法</title>
-      <link>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Wed, 01 Oct 2025 09:24:26 +0000</pubDate>
-      <guid>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</guid>
       <description>&lt;h1 id=&#34;基础类型与运算&#34;&gt;基础类型与运算&lt;/h1&gt;
 &lt;h2 id=&#34;基础数据类型&#34;&gt;基础数据类型&lt;/h2&gt;
 &lt;h3 id=&#34;整型&#34;&gt;整型&lt;/h3&gt;
@@ -890,9 +890,9 @@ D. 第④行&lt;/p&gt;</description>
     </item>
     <item>
       <title>KNN算法</title>
-      <link>https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/</link>
       <pubDate>Wed, 01 Oct 2025 09:24:26 +0000</pubDate>
-      <guid>https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/</guid>
       <description>&lt;h1 id=&#34;knn算法&#34;&gt;KNN算法&lt;/h1&gt;
 &lt;h2 id=&#34;knn算法简介&#34;&gt;KNN算法简介&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
@@ -902,21 +902,21 @@ D. 第④行&lt;/p&gt;</description>
 &lt;p&gt;4.知道K近邻算法回归流程&lt;/p&gt;
 &lt;h3 id=&#34;理解knn算法思想&#34;&gt;【理解】KNN算法思想&lt;/h3&gt;
 &lt;p&gt;K-近邻算法（K Nearest Neighbor，简称KNN）。比如：根据你的“邻居”来推断出你的类别&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831143226786&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143226786.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143226786&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143226786.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;KNN算法思想：如果一个样本在特征空间中的 k 个最相似的样本中的大多数属于某一个类别，则该样本也属于这个类别&lt;/p&gt;
 &lt;p&gt;思考：如何确定样本的相似性？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;样本相似性&lt;/strong&gt;：样本都是属于一个任务数据集的。样本距离越近则越相似。&lt;/p&gt;
 &lt;p&gt;利用K近邻算法预测电影类型&lt;/p&gt;
 &lt;img src=&#34;image-20230831143341119.png&#34; alt=&#34;image-20230831143341119&#34; /&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831143403932&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143403932.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831143443988&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143443988.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831143436328&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143436328.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831143456524&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143456524.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831143430741&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143430741.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831143503916&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143503916.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831143416184&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143416184.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143403932&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143403932.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143443988&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143443988.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143436328&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143436328.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143456524&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143456524.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143430741&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143430741.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143503916&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143503916.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143416184&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143416184.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;知道k值的选择&#34;&gt;【知道】K值的选择&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831152503338&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831152503338.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831152503338&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831152503338.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;知道knn的应用方式&#34;&gt;【知道】KNN的应用方式&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -932,7 +932,7 @@ D. 第④行&lt;/p&gt;</description>
 &lt;p&gt;分类问题的处理流程：&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831145236097&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831145236097.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831145236097&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831145236097.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;1.计算未知样本到每一个训练样本的距离&lt;/p&gt;
 &lt;p&gt;2.将训练样本根据距离大小升序排列&lt;/p&gt;
 &lt;p&gt;3.取出距离最近的 K 个训练样本&lt;/p&gt;
@@ -941,7 +941,7 @@ D. 第④行&lt;/p&gt;</description>
 &lt;ul&gt;
 &lt;li&gt;回归问题的处理流程：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230831145250261&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831145250261.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831145250261&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831145250261.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;1.计算未知样本到每一个训练样本的距离&lt;/p&gt;
 &lt;p&gt;2.将训练样本根据距离大小升序排列&lt;/p&gt;
 &lt;p&gt;3.取出距离最近的 K 个训练样本&lt;/p&gt;
@@ -983,9 +983,9 @@ D. 第④行&lt;/p&gt;</description>
     </item>
     <item>
       <title>【算法1-1】模拟与高精度</title>
-      <link>https://examplesite.com/posts/%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%AB%98%E7%B2%BE%E5%BA%A6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%AB%98%E7%B2%BE%E5%BA%A6/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%AB%98%E7%B2%BE%E5%BA%A6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%AB%98%E7%B2%BE%E5%BA%A6/</guid>
       <description>&lt;h2 id=&#34;模拟&#34;&gt;模拟&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;模拟&lt;/strong&gt;：根据题意将题目通过编程的方式写出来&lt;/p&gt;
 &lt;h3 id=&#34;p2670-noip-2015-普及组-扫雷游戏&#34;&gt;P2670 [NOIP 2015 普及组] 扫雷游戏&lt;/h3&gt;
@@ -1068,9 +1068,9 @@ D. 第④行&lt;/p&gt;</description>
     </item>
     <item>
       <title>c&#43;&#43;零基础-环境搭建</title>
-      <link>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
       <description>&lt;h1 id=&#34;配置c环境&#34;&gt;配置C++环境&lt;/h1&gt;
 &lt;h2 id=&#34;安装vscode&#34;&gt;安装vscode&lt;/h2&gt;
 &lt;p&gt;点击链接进入微软官网进行安装&lt;/p&gt;
@@ -1115,27 +1115,27 @@ D. 第④行&lt;/p&gt;</description>
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.msys2.org/&#34;&gt;MSYS2&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-23-14-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-23-14-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在官网中找到安装包并下载&lt;/p&gt;
 &lt;p&gt;因为访问官方需要科学手段，如果不能科学上网的同学可以使用国内镜像网站进行安装&lt;/p&gt;
 &lt;p&gt;这里提供阿里的镜像网站，我们打开网站点击第一个&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://mirrors.aliyun.com/msys2/?spm=a2c6h.13651104.d-5174.1.1a997a1fZzI4By&#34;&gt;https://mirrors.aliyun.com/msys2/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-01-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-01-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;找到最新版的安装包进行下载&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-41-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-41-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;下载完成之后我们开始安装&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-31-00-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-31-00-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;这个最好就是默认c盘，为了避免不必要的麻烦，接下来一直点击next就可以&lt;/p&gt;
 &lt;p&gt;安装完成之后我需要在开始菜单中找到msys2 ucrt64 打开&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-34-12-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-34-12-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;将官网中的这一条命令写入进去，开始g++的下载&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-35-12-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-35-12-image.png&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;$ pacman -S mingw-w64-ucrt-x86_64-gcc&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-36-30-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-36-30-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;这个直接输入Y&lt;/p&gt;
 &lt;p&gt;然后开始下载我们的依赖&lt;/p&gt;
 &lt;p&gt;因为&lt;code&gt;pacman&lt;/code&gt; 命令下载的依赖来自有国外的仓库，所有下载很慢，有可能出现下载失败的情况，如果出现了网络错误或者下载失败，我们需要配置 &lt;code&gt;pacman&lt;/code&gt; 使用国内镜像源的仓库进行下载&lt;/p&gt;
@@ -1167,9 +1167,9 @@ D. 第④行&lt;/p&gt;</description>
     </item>
     <item>
       <title>CCF编程等级认证-5级</title>
-      <link>https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81-5%E7%BA%A7/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81-5%E7%BA%A7/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81-5%E7%BA%A7/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81-5%E7%BA%A7/</guid>
       <description>&lt;h2 id=&#34;gesp5级要求&#34;&gt;GESP5级要求&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!TIP]
@@ -1248,9 +1248,9 @@ D. 第④行&lt;/p&gt;</description>
     </item>
     <item>
       <title>GESP2025年12月6级真题解析</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_12_6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_12_6/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_12_6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%85%AD%E7%BA%A7/25_12_6/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目1&#34;&gt;题目1&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;在面向对象编程中，下列关于虚函数的描述中，错误的是（）。&lt;/strong&gt;&lt;br&gt;
@@ -1341,26 +1341,26 @@ D. 代码运行出现错误&lt;/p&gt;</description>
     </item>
     <item>
       <title>NeoVim</title>
-      <link>https://examplesite.com/posts/neovim/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/neovim/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/neovim/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/neovim/</guid>
       <description>&lt;h1 id=&#34;安装neovim&#34;&gt;安装NeoVim&lt;/h1&gt;
 &lt;h2 id=&#34;下载&#34;&gt;下载&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/neovim/neovim/releases&#34;&gt;Releases · neovim/neovim&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;官方提供了2中安装方式，一种是zip，一种是msi这里我们使用zip的安装方式&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/neovim/2025-10-21-21-38-51-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/neovim/2025-10-21-21-38-51-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我们可以在Assets中找到安装包，并下载&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/neovim/2025-10-21-21-37-25-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/neovim/2025-10-21-21-37-25-image.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;安装&#34;&gt;安装&lt;/h2&gt;
 &lt;p&gt;我们将下载好的nvim-win64.zip 解压缩要合适的目录，我这里解压到&lt;code&gt;D:\apps\nvim-win64&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;解压完成之后我们需要配置环境变量&lt;/p&gt;
 &lt;p&gt;我们找到nvim.exe 所在目录，将这个目录配置在path中&lt;/p&gt;
 &lt;p&gt;PS： 如果不会配置环境变量，请百度搜索&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/neovim/2025-10-21-21-46-24-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/neovim/2025-10-21-21-46-24-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;配置完环境变量之后我们打开powershell输入&lt;code&gt;nvim -version&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/neovim/2025-10-21-21-52-21-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/neovim/2025-10-21-21-52-21-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我们已经成功安装neovim了&lt;/p&gt;
 &lt;h1 id=&#34;三种模式&#34;&gt;三种模式&lt;/h1&gt;
 &lt;h2 id=&#34;normal-model&#34;&gt;normal model&lt;/h2&gt;
@@ -1382,9 +1382,9 @@ D. 代码运行出现错误&lt;/p&gt;</description>
     </item>
     <item>
       <title>测试题目</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目一&#34;&gt;题目一&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;运行下面程序后变量a的值是（）&lt;/strong&gt;&lt;/p&gt;
@@ -1448,9 +1448,9 @@ D.105&lt;/p&gt;</description>
     </item>
     <item>
       <title>测试题目2</title>
-      <link>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo02/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo02/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo02/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/gesp%E7%9C%9F%E9%A2%98/%E5%9B%9B%E7%BA%A7/demo02/</guid>
       <description>&lt;h2 id=&#34;选择题&#34;&gt;选择题&lt;/h2&gt;
 &lt;h3 id=&#34;题目一&#34;&gt;题目一&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;运行下面程序后变量a的值是（）&lt;/strong&gt;&lt;/p&gt;
@@ -1514,9 +1514,9 @@ D.105&lt;/p&gt;</description>
     </item>
     <item>
       <title>机器学习概述</title>
-      <link>https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/</guid>
       <description>&lt;h1 id=&#34;机器学习概述&#34;&gt;机器学习概述&lt;/h1&gt;
 &lt;h2 id=&#34;人工智能三大概念&#34;&gt;人工智能三大概念&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
@@ -1538,7 +1538,7 @@ D.105&lt;/p&gt;</description>
 &lt;p&gt;释义 - 仿智； 像人一样机器智能的综合与分析；机器模拟人类&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230830154440581&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/image-20230830154440581.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230830154440581&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/image-20230830154440581.png&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;释义：是一个系统，像人那样思考 像人那样理性思考&lt;/p&gt;
@@ -1559,7 +1559,7 @@ D.105&lt;/p&gt;</description>
 &lt;p&gt;释义：让机器自动学习，而不是基于规则的编程（不依赖特定规则编程）&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20230830154802582&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/image-20230830154802582.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230830154802582&#34; loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/image-20230830154802582.png&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;人类识别车：根据车的特征归纳出车的规律；来了一个新的图片，判断预测是否是车&lt;/p&gt;
@@ -1569,9 +1569,9 @@ D.105&lt;/p&gt;</description>
     </item>
     <item>
       <title>关于</title>
-      <link>https://examplesite.com/about/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/about/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/about/</guid>
       <description>about</description>
     </item>
   </channel>

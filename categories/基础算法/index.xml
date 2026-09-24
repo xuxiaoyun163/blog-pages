@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>基础算法 on 奇怪的代码</title>
-    <link>https://examplesite.com/categories/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/</link>
+    <link>https://xuxiaoyun163.github.io/blog-pages/categories/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/</link>
     <description>Recent content in 基础算法 on 奇怪的代码</description>
     <image>
       <title>奇怪的代码</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 30 Sep 2025 12:14:56 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/categories/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xuxiaoyun163.github.io/blog-pages/categories/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【算法1-1】模拟与高精度</title>
-      <link>https://examplesite.com/posts/%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%AB%98%E7%B2%BE%E5%BA%A6/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%AB%98%E7%B2%BE%E5%BA%A6/</link>
       <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
-      <guid>https://examplesite.com/posts/%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%AB%98%E7%B2%BE%E5%BA%A6/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%AB%98%E7%B2%BE%E5%BA%A6/</guid>
       <description>&lt;h2 id=&#34;模拟&#34;&gt;模拟&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;模拟&lt;/strong&gt;：根据题意将题目通过编程的方式写出来&lt;/p&gt;
 &lt;h3 id=&#34;p2670-noip-2015-普及组-扫雷游戏&#34;&gt;P2670 [NOIP 2015 普及组] 扫雷游戏&lt;/h3&gt;

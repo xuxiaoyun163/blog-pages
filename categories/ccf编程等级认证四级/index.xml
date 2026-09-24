@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CCF编程等级认证四级 on 奇怪的代码</title>
-    <link>https://examplesite.com/categories/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7/</link>
+    <link>https://xuxiaoyun163.github.io/blog-pages/categories/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7/</link>
     <description>Recent content in CCF编程等级认证四级 on 奇怪的代码</description>
     <image>
       <title>奇怪的代码</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xuxiaoyun163.github.io/blog-pages/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 29 Oct 2025 17:14:16 +0800</lastBuildDate>
-    <atom:link href="https://examplesite.com/categories/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xuxiaoyun163.github.io/blog-pages/categories/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CCF编程等级认证四级-指针</title>
-      <link>https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/</link>
+      <link>https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/</link>
       <pubDate>Wed, 29 Oct 2025 17:14:16 +0800</pubDate>
-      <guid>https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/</guid>
+      <guid>https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/</guid>
       <description>&lt;h2 id=&#34;指针与地址的概念&#34;&gt;指针与地址的概念&lt;/h2&gt;
 &lt;p&gt;在讲解指针之前我们需要明白，变量到底是怎么存储在计算中的呢？&lt;/p&gt;
 &lt;p&gt;其实一个整数存储在计算机的过程，类似我们的在菜鸟驿站存一个商品&lt;/p&gt;
@@ -28,14 +28,14 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;// 将100 放入到柜子中
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-17-38-27-image.png&#34;&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-17-38-27-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我们可以根据柜子的编号将柜子中的物品拿走，对应的代码就是我们可以根据变量名&lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;获取内存中存放的值。&lt;/p&gt;
 &lt;p&gt;现在突然有一天你需要陪你女朋友，没时间去拿快递，你希望隔壁老王去帮你拿一下，那你需要告诉老王快递柜的编号&lt;/p&gt;
 &lt;p&gt;在计算中，如果我们也需要进行这种操作，将快递柜的编号告诉别人怎么办呢？&lt;/p&gt;
 &lt;p&gt;其实有的人就会认为，这个&lt;code&gt;100&lt;/code&gt; 不就是&lt;code&gt;a&lt;/code&gt;嘛，我直接将a告诉它不就行了。&lt;/p&gt;
 &lt;p&gt;但是在计算中，我们的地址并不会像快递编号那样，比较简单，计算机中的内存编号非常复杂，而且很长，为了方便我们每次存放和取出我们需要的值，在存放值的过程中呢，我们会将这个编号复制一份给变量名&lt;code&gt;a&lt;/code&gt;但是这不是真正的编号，那我们该怎么去获取到当前这个变量的地址呢？&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-17-54-29-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-17-54-29-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;取地址&lt;/strong&gt;  &lt;code&gt;&amp;amp;&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(){&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
@@ -52,7 +52,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// 通过指针存储我们获取到的地址    
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;cout&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//0xaaf69ffb9c
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-18-10-25-image.png&#34;&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-29-18-10-25-image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;那现在我知道了存储的地址之后我该如何去取出这个地址中的内容呢？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;解引用&lt;/strong&gt;  获取当前指针指向地址中的值&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(){&lt;/span&gt;
@@ -90,7 +90,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;23_6_13&#34;&gt;23_6_13&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-30-15-11-48-image.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://xuxiaoyun163.github.io/blog-pages/posts/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%9B%9B%E7%BA%A7-%E6%8C%87%E9%92%88/2025-10-30-15-11-48-image.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
