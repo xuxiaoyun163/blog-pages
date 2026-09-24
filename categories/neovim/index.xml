@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NeoVim on 奇怪的代码</title>
+    <link>https://examplesite.com/categories/neovim/</link>
+    <description>Recent content in NeoVim on 奇怪的代码</description>
+    <image>
+      <title>奇怪的代码</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Sep 2025 12:14:56 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/categories/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NeoVim</title>
+      <link>https://examplesite.com/posts/neovim/</link>
+      <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/posts/neovim/</guid>
+      <description>&lt;h1 id=&#34;安装neovim&#34;&gt;安装NeoVim&lt;/h1&gt;
+&lt;h2 id=&#34;下载&#34;&gt;下载&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/neovim/neovim/releases&#34;&gt;Releases · neovim/neovim&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;官方提供了2中安装方式，一种是zip，一种是msi这里我们使用zip的安装方式&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/neovim/2025-10-21-21-38-51-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我们可以在Assets中找到安装包，并下载&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/neovim/2025-10-21-21-37-25-image.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装&#34;&gt;安装&lt;/h2&gt;
+&lt;p&gt;我们将下载好的nvim-win64.zip 解压缩要合适的目录，我这里解压到&lt;code&gt;D:\apps\nvim-win64&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;解压完成之后我们需要配置环境变量&lt;/p&gt;
+&lt;p&gt;我们找到nvim.exe 所在目录，将这个目录配置在path中&lt;/p&gt;
+&lt;p&gt;PS： 如果不会配置环境变量，请百度搜索&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/neovim/2025-10-21-21-46-24-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;配置完环境变量之后我们打开powershell输入&lt;code&gt;nvim -version&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/neovim/2025-10-21-21-52-21-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我们已经成功安装neovim了&lt;/p&gt;
+&lt;h1 id=&#34;三种模式&#34;&gt;三种模式&lt;/h1&gt;
+&lt;h2 id=&#34;normal-model&#34;&gt;normal model&lt;/h2&gt;
+&lt;p&gt;当我们使用&lt;code&gt;nvim hello_vim.txt&lt;/code&gt; 打开文件时，默认就是normal model模式&lt;/p&gt;
+&lt;h3 id=&#34;光标操作&#34;&gt;光标操作&lt;/h3&gt;
+&lt;p&gt;一般在normal model 下我们会进行光标操作&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;h: 向左&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;j: 向上&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;k: 向下&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;l: 向右&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;100j: 向上移动100行&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gg: 跳转到第一行&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;G : 跳转到最后一行&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;insert-model&#34;&gt;insert model&lt;/h2&gt;
+&lt;p&gt;在 normal mode 下我们按下 &lt;code&gt;i&lt;/code&gt; 键 可以进入 insert model模式，可以输入文本&lt;/p&gt;
+&lt;p&gt;在输入完成之后我们可以按下&lt;code&gt;esc&lt;/code&gt; 退出 insert model 进入normal model模式&lt;/p&gt;
+&lt;h2 id=&#34;command-line-model&#34;&gt;command-line model&lt;/h2&gt;
+&lt;p&gt;在normal model 模式下 按下 &lt;code&gt;:&lt;/code&gt; 可以进入命令模式&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

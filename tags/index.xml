@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>标签 on 奇怪的代码</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in 标签 on 奇怪的代码</description>
+    <image>
+      <title>奇怪的代码</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 19 Sep 2026 17:14:16 +0800</lastBuildDate>
+    <atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSP-J真题解析</title>
+      <link>https://examplesite.com/tags/csp-j%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/</link>
+      <pubDate>Sat, 19 Sep 2026 17:14:16 +0800</pubDate>
+      <guid>https://examplesite.com/tags/csp-j%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper-Mod</title>
+      <link>https://examplesite.com/tags/paper-mod/</link>
+      <pubDate>Sat, 19 Sep 2026 17:14:16 +0800</pubDate>
+      <guid>https://examplesite.com/tags/paper-mod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>主题配置</title>
+      <link>https://examplesite.com/tags/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Sat, 19 Sep 2026 17:14:16 +0800</pubDate>
+      <guid>https://examplesite.com/tags/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2026</title>
+      <link>https://examplesite.com/tags/2026/</link>
+      <pubDate>Mon, 27 Apr 2026 16:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CCF编程等级认证</title>
+      <link>https://examplesite.com/tags/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81/</link>
+      <pubDate>Mon, 27 Apr 2026 16:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/ccf%E7%BC%96%E7%A8%8B%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GESP</title>
+      <link>https://examplesite.com/tags/gesp/</link>
+      <pubDate>Mon, 27 Apr 2026 16:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/gesp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GESP知识点</title>
+      <link>https://examplesite.com/tags/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
+      <pubDate>Mon, 27 Apr 2026 16:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/gesp%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2025</title>
+      <link>https://examplesite.com/tags/2025/</link>
+      <pubDate>Mon, 27 Apr 2026 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GESP6级</title>
+      <link>https://examplesite.com/tags/gesp6%E7%BA%A7/</link>
+      <pubDate>Mon, 27 Apr 2026 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/gesp6%E7%BA%A7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GESP真题解析</title>
+      <link>https://examplesite.com/tags/gesp%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/</link>
+      <pubDate>Mon, 27 Apr 2026 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/gesp%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>https://examplesite.com/tags/hello/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
+      <guid>https://examplesite.com/tags/hello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>入门</title>
+      <link>https://examplesite.com/tags/%E5%85%A5%E9%97%A8/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
+      <guid>https://examplesite.com/tags/%E5%85%A5%E9%97%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://examplesite.com/tags/markdown/</link>
+      <pubDate>Wed, 29 Oct 2025 17:14:16 +0800</pubDate>
+      <guid>https://examplesite.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vscode</title>
+      <link>https://examplesite.com/tags/vscode/</link>
+      <pubDate>Wed, 29 Oct 2025 17:14:16 +0800</pubDate>
+      <guid>https://examplesite.com/tags/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Csp-S</title>
+      <link>https://examplesite.com/tags/csp-s/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/tags/csp-s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>洛谷题单</title>
+      <link>https://examplesite.com/tags/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%8D%95/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/tags/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%8D%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>数据结构</title>
+      <link>https://examplesite.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>机器学习</title>
+      <link>https://examplesite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Wed, 01 Oct 2025 09:24:26 +0000</pubDate>
+      <guid>https://examplesite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>人工智能</title>
+      <link>https://examplesite.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+      <pubDate>Wed, 01 Oct 2025 09:24:26 +0000</pubDate>
+      <guid>https://examplesite.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C&#43;&#43;零基础代码可视化</title>
+      <link>https://examplesite.com/tags/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NeoVim</title>
+      <link>https://examplesite.com/tags/neovim/</link>
+      <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/neovim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://examplesite.com/tags/tools/</link>
+      <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>基础算法</title>
+      <link>https://examplesite.com/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>洛谷</title>
+      <link>https://examplesite.com/tags/%E6%B4%9B%E8%B0%B7/</link>
+      <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/tags/%E6%B4%9B%E8%B0%B7/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

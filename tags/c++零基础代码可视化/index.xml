@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C&#43;&#43;零基础代码可视化 on 奇怪的代码</title>
+    <link>https://examplesite.com/tags/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+    <description>Recent content in C&#43;&#43;零基础代码可视化 on 奇怪的代码</description>
+    <image>
+      <title>奇怪的代码</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Sep 2025 12:14:56 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/tags/c++%E9%9B%B6%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c&#43;&#43;零基础-环境搭建</title>
+      <link>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/posts/c&#43;&#43;%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
+      <description>&lt;h1 id=&#34;配置c环境&#34;&gt;配置C++环境&lt;/h1&gt;
+&lt;h2 id=&#34;安装vscode&#34;&gt;安装vscode&lt;/h2&gt;
+&lt;p&gt;点击链接进入微软官网进行安装&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code - Code Editing. Redefined&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;安装编译器&#34;&gt;安装编译器&lt;/h2&gt;
+&lt;p&gt;编译的选择&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;编译器&lt;/th&gt;
+					&lt;th&gt;开发商&lt;/th&gt;
+					&lt;th&gt;平台支持&lt;/th&gt;
+					&lt;th&gt;特点&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;MSVC&lt;/td&gt;
+					&lt;td&gt;Microsoft&lt;/td&gt;
+					&lt;td&gt;Windows为主&lt;/td&gt;
+					&lt;td&gt;Visual Studio默认编译器&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;GCC&lt;/td&gt;
+					&lt;td&gt;GNU&lt;/td&gt;
+					&lt;td&gt;跨平台&lt;/td&gt;
+					&lt;td&gt;Linux常用，开源&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Clang&lt;/td&gt;
+					&lt;td&gt;LLVM&lt;/td&gt;
+					&lt;td&gt;跨平台&lt;/td&gt;
+					&lt;td&gt;现代化设计，错误提示友好&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;我们这里使用的GCC&lt;/p&gt;
+&lt;p&gt;我们通过msys2安装c++的编辑器gcc，通过gcc去编辑C++ 文件&lt;/p&gt;
+&lt;p&gt;点击下面官网链接进入官网&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.msys2.org/&#34;&gt;MSYS2&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-23-14-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在官网中找到安装包并下载&lt;/p&gt;
+&lt;p&gt;因为访问官方需要科学手段，如果不能科学上网的同学可以使用国内镜像网站进行安装&lt;/p&gt;
+&lt;p&gt;这里提供阿里的镜像网站，我们打开网站点击第一个&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://mirrors.aliyun.com/msys2/?spm=a2c6h.13651104.d-5174.1.1a997a1fZzI4By&#34;&gt;https://mirrors.aliyun.com/msys2/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-01-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;找到最新版的安装包进行下载&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-28-41-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下载完成之后我们开始安装&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-31-00-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这个最好就是默认c盘，为了避免不必要的麻烦，接下来一直点击next就可以&lt;/p&gt;
+&lt;p&gt;安装完成之后我需要在开始菜单中找到msys2 ucrt64 打开&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-34-12-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;将官网中的这一条命令写入进去，开始g++的下载&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-35-12-image.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$ pacman -S mingw-w64-ucrt-x86_64-gcc&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/c++%E9%9B%B6%E5%9F%BA%E7%A1%80-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2025-09-30-12-36-30-image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这个直接输入Y&lt;/p&gt;
+&lt;p&gt;然后开始下载我们的依赖&lt;/p&gt;
+&lt;p&gt;因为&lt;code&gt;pacman&lt;/code&gt; 命令下载的依赖来自有国外的仓库，所有下载很慢，有可能出现下载失败的情况，如果出现了网络错误或者下载失败，我们需要配置 &lt;code&gt;pacman&lt;/code&gt; 使用国内镜像源的仓库进行下载&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;找到msys2安装目录默认是在c盘 &lt;code&gt;C:\msys64&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打开&lt;code&gt;C:\msys64\etc\pacman.d&lt;/code&gt; 目录&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;编辑 &lt;code&gt;/etc/pacman.d/mirrorlist.mingw32&lt;/code&gt; ，在文件开头添加：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Server = https://mirrors.aliyun.com/msys2/mingw/i686
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;编辑 &lt;code&gt;/etc/pacman.d/mirrorlist.mingw64&lt;/code&gt; ，在文件开头添加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Server = https://mirrors.aliyun.com/msys2/mingw/x86_64
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;编辑 &lt;code&gt;/etc/pacman.d/mirrorlist.msys&lt;/code&gt; ，在文件开头添加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Server = https://mirrors.aliyun.com/msys2/msys/$arch
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;编辑 &lt;code&gt;/etc/pacman.d/mirrorlist.ucrt64&lt;/code&gt; ，在文件开头添加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Server = https://mirrors.aliyun.com/msys2/mingw/ucrt64
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这里举一个栗子！每一个都要配置&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

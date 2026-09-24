@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>机器学习 on 奇怪的代码</title>
+    <link>https://examplesite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 机器学习 on 奇怪的代码</description>
+    <image>
+      <title>奇怪的代码</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Oct 2025 09:24:26 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KNN算法</title>
+      <link>https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Wed, 01 Oct 2025 09:24:26 +0000</pubDate>
+      <guid>https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/</guid>
+      <description>&lt;h1 id=&#34;knn算法&#34;&gt;KNN算法&lt;/h1&gt;
+&lt;h2 id=&#34;knn算法简介&#34;&gt;KNN算法简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.理解K近邻算法的思想&lt;/p&gt;
+&lt;p&gt;2.知道K值选择对结果影响&lt;/p&gt;
+&lt;p&gt;3.知道K近邻算法分类流程&lt;/p&gt;
+&lt;p&gt;4.知道K近邻算法回归流程&lt;/p&gt;
+&lt;h3 id=&#34;理解knn算法思想&#34;&gt;【理解】KNN算法思想&lt;/h3&gt;
+&lt;p&gt;K-近邻算法（K Nearest Neighbor，简称KNN）。比如：根据你的“邻居”来推断出你的类别&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143226786&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143226786.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;KNN算法思想：如果一个样本在特征空间中的 k 个最相似的样本中的大多数属于某一个类别，则该样本也属于这个类别&lt;/p&gt;
+&lt;p&gt;思考：如何确定样本的相似性？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;样本相似性&lt;/strong&gt;：样本都是属于一个任务数据集的。样本距离越近则越相似。&lt;/p&gt;
+&lt;p&gt;利用K近邻算法预测电影类型&lt;/p&gt;
+&lt;img src=&#34;image-20230831143341119.png&#34; alt=&#34;image-20230831143341119&#34; /&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143403932&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143403932.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143443988&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143443988.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143436328&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143436328.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143456524&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143456524.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143430741&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143430741.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143503916&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143503916.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831143416184&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831143416184.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;知道k值的选择&#34;&gt;【知道】K值的选择&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831152503338&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831152503338.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;知道knn的应用方式&#34;&gt;【知道】KNN的应用方式&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;解决问题：分类问题、回归问题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;算法思想：若一个样本在特征空间中的 k 个最相似的样本大多数属于某一个类别，则该样本也属于这个类别&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;相似性：欧氏距离&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分类问题的处理流程：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831145236097&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831145236097.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1.计算未知样本到每一个训练样本的距离&lt;/p&gt;
+&lt;p&gt;2.将训练样本根据距离大小升序排列&lt;/p&gt;
+&lt;p&gt;3.取出距离最近的 K 个训练样本&lt;/p&gt;
+&lt;p&gt;4.进行多数表决，统计 K 个样本中哪个类别的样本个数最多&lt;/p&gt;
+&lt;p&gt;5.将未知的样本归属到出现次数最多的类别&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;回归问题的处理流程：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230831145250261&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/knn%E7%AE%97%E6%B3%95/image-20230831145250261.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1.计算未知样本到每一个训练样本的距离&lt;/p&gt;
+&lt;p&gt;2.将训练样本根据距离大小升序排列&lt;/p&gt;
+&lt;p&gt;3.取出距离最近的 K 个训练样本&lt;/p&gt;
+&lt;p&gt;4.把这个 K 个样本的目标值计算其平均值&lt;/p&gt;
+&lt;p&gt;5.作为将未知的样本预测的值&lt;/p&gt;
+&lt;h2 id=&#34;api介绍&#34;&gt;API介绍&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.掌握KNN算法分类API&lt;/p&gt;
+&lt;p&gt;2.掌握KNN算法回归API&lt;/p&gt;
+&lt;h3 id=&#34;实操分类api&#34;&gt;【实操】分类API&lt;/h3&gt;
+&lt;p&gt;KNN分类API：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;sklearn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;neighbors&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;KNeighborsClassifier&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;n_neighbors&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;​     n_neighbors：int,可选（默认= 5），k_neighbors查询默认使用的邻居数&lt;/p&gt;
+&lt;h3 id=&#34;实操回归api&#34;&gt;【实操】回归API&lt;/h3&gt;
+&lt;p&gt;KNN分类API：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;sklearn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;neighbors&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;KNeighborsRegressor&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;n_neighbors&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 1.工具包&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;sklearn.neighbors&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;KNeighborsClassifier&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;KNeighborsRegressor&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# from sklearn.neighbors import KNeighborsRegressor&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 2.数据(特征工程)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 分类&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# x = [[0,2,3],[1,3,4],[3,5,6],[4,7,8],[2,3,4]]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# y = [0,0,1,1,0]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;y&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;0.1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;0.2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;0.3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;0.4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 3.实例化&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# model =KNeighborsClassifier(n_neighbors=3)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;model&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;KNeighborsRegressor&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;n_neighbors&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 4.训练&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;model&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;fit&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;y&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 5.预测&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;model&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;predict&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;([[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]]))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;距离度量方法&#34;&gt;距离度量方法&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>机器学习概述</title>
+      <link>https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/</link>
+      <pubDate>Tue, 30 Sep 2025 12:14:56 +0000</pubDate>
+      <guid>https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/</guid>
+      <description>&lt;h1 id=&#34;机器学习概述&#34;&gt;机器学习概述&lt;/h1&gt;
+&lt;h2 id=&#34;人工智能三大概念&#34;&gt;人工智能三大概念&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.知道AL，ML，DL是什么？&lt;/p&gt;
+&lt;p&gt;2.了解AL、ML、DL之间的关系&lt;/p&gt;
+&lt;p&gt;3.知道自动学习和规则编程的区别&lt;/p&gt;
+&lt;h3 id=&#34;知道人工智能&#34;&gt;【知道】人工智能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Artificial Intelligence  人工智能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AI is the field that studies the synthesis and analysis of  computational agents that act intelligently&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AI is to use computers to analog and instead of human brain&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;释义 - 仿智； 像人一样机器智能的综合与分析；机器模拟人类&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230830154440581&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/image-20230830154440581.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;释义：是一个系统，像人那样思考 像人那样理性思考&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;释义：是一个系统，像人那样活动 像人那样合理系统&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;知道机器学习&#34;&gt;【知道】机器学习&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Machine Learning   释义：机器学习&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Field of study that gives computers the ability to learn without being explicitly programmed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;释义：让机器自动学习，而不是基于规则的编程（不依赖特定规则编程）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20230830154802582&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/image-20230830154802582.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;人类识别车：根据车的特征归纳出车的规律；来了一个新的图片，判断预测是否是车&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;机器学习识别车: 从数据中获取规律；来了一个新的数据，产生一个新的预测&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
